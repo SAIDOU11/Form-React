@@ -1,9 +1,14 @@
-/* Practice form again */
-
 * {
   box-sizing: border-box;
 }
 
 body {
   background-color: #ccc;
+}
+
+input {
+  border-radius: 0.4em;
+
+  padding: 0.8em 1em;
+  margin: 1em;
 }
